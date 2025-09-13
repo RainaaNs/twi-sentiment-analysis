@@ -1,0 +1,13 @@
+name: social_media_mining_env
+channels:
+  - defaults
+dependencies:
+  - python=3.11
+  - pandas
+  - matplotlib
+  - scikit-surprise
+  - jupyter
+  - torchaudio
+  - torchvision
+  - cpuonly
+prefix: C:\Users\T-Plug\anaconda3\envs\social_media_mining_env
