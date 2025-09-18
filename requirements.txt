@@ -1,0 +1,10 @@
+# packages needed to run the scripts
+
+pandas==2.3.1
+torch==2.8.0
+transformers==4.45.2
+
+# Utilities
+# argparse       
+# collections     
+# os
